@@ -17,10 +17,9 @@ Hi, I'm **Théo Hermann**. I ...
 
 - 🎶 <u>listen to a lot of music and play the guitar.</u>
 
-- 🧑‍🎨 <u>am part of the Design team for [***La Matrice Festival***](https://lamatricefestival.ch/) and enjoy creative Coding
+- 🧑‍🎨 <u>am part of the Design team for [***La Matrice Festival***](https://lamatricefestival.ch/) and enjoy creative Coding </u>
   |[**Creative Coding with Processing**]()|
-  | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 60%;" />          |
-
+  | <img src="./gif/Logo.gif" style="zoom: 30%;" />     |
 ------
 
 ⚡️ Powered by theozinho © 2020 - 2022
