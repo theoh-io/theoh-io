@@ -11,7 +11,7 @@ Hi, I'm **Théo Hermann**. I ...
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | <img src="./gif/loomo.gif" alt="loomo follow" style="zoom: 30%;" /> | <img src="./gif/BlurBody.gif" alt="Tracking" style="zoom: 30%;" /> |
   | [**Mobile Robotics with Thymio**](https://github.com/theoh-io/EPFL_MobileRobotics_2021) |  [Crazyflie Drone navigation](https://github.com/theoh-io/Aerial-Robotics)|
-  | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 30%;" />          |
+  | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 40%;" />          |
 
 
 <!---
