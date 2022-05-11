@@ -14,13 +14,13 @@ Hi, I'm **Théo Hermann**. I ...
   | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 60%;" />          |
 
 
-<!---
-- (am) learning to reinvent the customized research wheels.  [ 📈 **v4r-plot**](https://github.com/hibetterheyj/v4r-plot)  [🖥️ **YujieScripts**](https://github.com/hibetterheyj/YujieScripts) [:keyboard: **yujie_shell**](https://github.com/hibetterheyj/yujie_shell) [:film_strip: **rosbag_filter_gui**](https://github.com/hibetterheyj/rosbag_filter_gui)
 
-
-- (have) contributed to fascinating **🏎 [DIANRacing](https://yujie-he.github.io/project/2018-dian-racing/)** and 🛠 **[Mechatronics Modules](https://yujie-he.github.io/project/2019-tongji-ta/)** team
----!>
 - 🎶 <u>listen to a lot of music and play the guitar.</u>
 
+- 🧑‍🎨 <u>am part of the Design team for [***La Matrice Festival***](https://lamatricefestival.ch/) and enjoy creative Coding
+  |[**Creative Coding with Processing**]()|
+  | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 60%;" />          |
+
+------
 
 ⚡️ Powered by theozinho © 2020 - 2022
