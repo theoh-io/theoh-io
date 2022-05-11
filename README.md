@@ -1,11 +1,11 @@
 
 ### Bonjour | Hello | Bom dia | Guten Tag | Buenos dias 👋
 
-> *Study Robotics at EPFL 🤖 . Computer Vision and Deep Learning enthusiast 🖥️ *
+> *Study Robotics at EPFL  . Computer Vision and Deep Learning enthusiast *
 
 Hi, I'm **Théo Hermann**. I ...
 
-- (enjoy) working on challenging but cool :robot: robotics and CV projects. 
+- (enjoy) working on challenging but cool :robot: robotics 🤖 and CV projects 🖥️. 
 
   | [**Robust Navigation with Loomo**](https://github.com/theoh-io/Autonomous_driving_pipeline) | [**Tracking with Re-Identification**](https://github.com/theoh-io/Single-Person-Tracking-Benchmark) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
