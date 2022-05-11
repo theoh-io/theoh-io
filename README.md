@@ -5,16 +5,18 @@
 
 Hi, I'm **Théo Hermann**. I ...
 
+- (enjoy) working on challenging but cool :robot: robotics and CV projects. 
+
+  | [**Robust Navigation with Loomo**](https://github.com/theoh-io/Autonomous_driving_pipeline) | [** Tracking with Re-Identification **](https://github.com/theoh-io/Single-Person-Tracking-Benchmark) |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | <img src="./gif/loomo.gif" alt="loomo follow" style="zoom: 30%;" /> | <img src="./gif/BlurBody.gif" alt="Tracking" style="zoom: 30%;" /> |
+  | [**Mobile Robotics with Thymio**](https://github.com/theoh-io/EPFL_MobileRobotics_2021) |  [Crazyflie Drone navigation](https://github.com/theoh-io/Aerial-Robotics)|
+  | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 30%;" />          |
+
+
 <!---
 - (am) learning to reinvent the customized research wheels.  [ 📈 **v4r-plot**](https://github.com/hibetterheyj/v4r-plot)  [🖥️ **YujieScripts**](https://github.com/hibetterheyj/YujieScripts) [:keyboard: **yujie_shell**](https://github.com/hibetterheyj/yujie_shell) [:film_strip: **rosbag_filter_gui**](https://github.com/hibetterheyj/rosbag_filter_gui)
 
-- (enjoy) working on challenging but cool :robot: robotics and CV projects. 
-
-  | [VIsual odometry](https://github.com/hibetterheyj/Visual-Odometry-Pipeline) | [Crazyflie autonomous navigation](https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing) |
-  | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | <img src="./gif/lausanne_center_nav.gif" alt="vo_lausanne_center_nav" style="zoom: 30%;" /> | <img src="./gif/cf_land.gif" alt="crazyflie" style="zoom: 30%;" /> |
-  | [**Pedestrian trajectory analysis**](https://github.com/epfl-lasa/crowdbot-evaluation-tools) | [**Visual tracking for UAV**](https://yujie-he.github.io/project/2020-tracking4uav/) |
-  | <img src="./gif/qolo_tracking.gif" style="zoom: 30%;" />     | <img src="./gif/tracking.gif" style="zoom: 30%;" />          |
 
 - (have) contributed to fascinating **🏎 [DIANRacing](https://yujie-he.github.io/project/2018-dian-racing/)** and 🛠 **[Mechatronics Modules](https://yujie-he.github.io/project/2019-tongji-ta/)** team
 ---!>
