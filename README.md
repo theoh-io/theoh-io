@@ -7,10 +7,10 @@ Hi, I'm **Théo Hermann**. I ...
 
 - (enjoy) working on challenging but cool :robot: robotics and CV projects. 
 
-  | [**Robust Navigation with Loomo**](https://github.com/theoh-io/Autonomous_driving_pipeline) | [** Tracking with Re-Identification **](https://github.com/theoh-io/Single-Person-Tracking-Benchmark) |
+  | [**Robust Navigation with Loomo**](https://github.com/theoh-io/Autonomous_driving_pipeline) | [**Tracking with Re-Identification**](https://github.com/theoh-io/Single-Person-Tracking-Benchmark) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | <img src="./gif/loomo.gif" alt="loomo follow" style="zoom: 30%;" /> | <img src="./gif/BlurBody.gif" alt="Tracking" style="zoom: 30%;" /> |
-  | [**Mobile Robotics with Thymio**](https://github.com/theoh-io/EPFL_MobileRobotics_2021) |  [Crazyflie Drone navigation](https://github.com/theoh-io/Aerial-Robotics)|
+  | [**Mobile Robotics with Thymio**](https://github.com/theoh-io/EPFL_MobileRobotics_2021) |  [**Aerial Robotics with Crazyflie Drone**](https://github.com/theoh-io/Aerial-Robotics)|
   | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 60%;" />          |
 
 
