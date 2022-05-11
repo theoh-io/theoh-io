@@ -21,7 +21,7 @@ Hi, I'm **Théo Hermann**. I ...
 
   | [**Creative Coding with Processing**]() |
   | ------------------------------------------------------------ |
-  | <img src="./gif/Logo.gif" width="200"/> |
+  | <img src="./gif/Logo.gif" width="250"/> |
   
 ------
 
