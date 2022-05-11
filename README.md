@@ -19,7 +19,7 @@ Hi, I'm **Théo Hermann**. I ...
 
 - 🧑‍🎨 <u>am part of the Design team for [***La Matrice Festival***](https://lamatricefestival.ch/) and enjoy creative Coding </u>
 
-  | [**Creative Coding with Processing**]() |
+  | [**Creative Coding with Processing**](https://github.com/theoh-io/Creative-Coding) |
   | ------------------------------------------------------------ |
   | <img src="./gif/Logo.gif" width="250"/> |
   
