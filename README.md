@@ -34,11 +34,19 @@
 
 ### Connect with me:
 
-[<img align="left" alt="theohermann| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="theohermann | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="theohermann | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="theohermann| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/th%C3%A9ohermann-epfl/]
 
 <br />
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>![image](https://user-images.githubusercontent.com/50209774/168469804-48d7387f-c4e0-4e0b-9997-f639b5c128f8.png)
+
+    - Python
+    - C++
+    - Pytorch
+    - ROS
+    - Matlab
+    - CAD (Catia)
+  
   
 ------
 
