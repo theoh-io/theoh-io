@@ -12,7 +12,7 @@
 
   | [**Robust Navigation with Loomo**](https://github.com/theoh-io/Perception-Pipeline) | [**Robust and Real-Time Person Tracking**](https://github.com/theoh-io/Perception-Pipeline) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | <img src="./gif/GIF1.gif" alt="loomo follow" /> | <img src="./gif/GIF2.gif" alt="Tracking" /> |
+  | <img src="./gif/GIF1.gif" alt="loomo follow" wifth=200/> | <img src="./gif/GIF2.gif" alt="Tracking" width=200/> |
   | [**Mobile Robotics with Thymio**](https://github.com/theoh-io/EPFL_MobileRobotics_2021) |  [**Aerial Robotics with Crazyflie Drone** (Still Loading...)](https://github.com/theoh-io/Aerial-Robotics)|
   | <img src="./gif/thymio.gif" />     | <img src="./gif/drone.gif" />          |
 
