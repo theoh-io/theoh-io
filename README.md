@@ -10,9 +10,9 @@
 
 - I enjoy working on challenging but cool robotics 🤖 and CV projects 🖥️. 
 
-  | [**Robust Navigation with Loomo**]() | [**Robust and Real-Time Person Tracking**](https://github.com/theoh-io/Perception-Pipeline) |
+  | [**Robust Navigation with Loomo**](https://github.com/theoh-io/Perception-Pipeline) | [**Robust and Real-Time Person Tracking**](https://github.com/theoh-io/Perception-Pipeline) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | <img src="./gif/loomo.gif" alt="loomo follow" style="zoom: 30%;" /> | <img src="./gif/BlurBody.gif" alt="Tracking" style="zoom: 30%;" /> |
+  | <img src="./gif/GIF1.gif" alt="loomo follow" style="zoom: 30%;" /> | <img src="./gif/GIF2.gif" alt="Tracking" style="zoom: 30%;" /> |
   | [**Mobile Robotics with Thymio**](https://github.com/theoh-io/EPFL_MobileRobotics_2021) |  [**Aerial Robotics with Crazyflie Drone** (Still Loading...)](https://github.com/theoh-io/Aerial-Robotics)|
   | <img src="./gif/thymio.gif" style="zoom: 30%;" />     | <img src="./gif/drone.gif" style="zoom: 60%;" />          |
 
