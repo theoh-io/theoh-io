@@ -1,16 +1,16 @@
 
-### Bonjour | Hello | Bom dia | Guten Tag | Buenos dias 👋
+### Bonjour 👋
 
 > *Study Robotics at EPFL. Computer Vision and Deep Learning enthusiast *
 
-- 👋 Hi, I’m **Théo Hermann**
-    A Robotics master student at the Ecole Polytechnique Fédérale de Lausanne (EPFL).
+-   Hi, I’m **Théo Hermann**
+    A Robotics master student at the [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/fr/) (EPFL).
     I studied at EPFL in Switzerland where I learned Mechanical Engineering and Programming,
-    before ending my bachelor degree with one year at KTH - Royal Institute of Technology in Stockholm.
+    before ending my bachelor degree with one year at [KTH - Royal Institute of Technology](https://www.kth.se/en) in Stockholm.
 
 - I enjoy working on challenging but cool robotics 🤖 and CV projects 🖥️. 
 
-  | [**Robust Navigation with Loomo**]() | [**Tracking with Re-Identification**](https://github.com/theoh-io/Single-Person-Tracking-Benchmark) |
+  | [**Robust Navigation with Loomo**]() | [**Robust and Real-Time Person Tracking**](https://github.com/theoh-io/Perception-Pipeline) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | <img src="./gif/loomo.gif" alt="loomo follow" style="zoom: 30%;" /> | <img src="./gif/BlurBody.gif" alt="Tracking" style="zoom: 30%;" /> |
   | [**Mobile Robotics with Thymio**](https://github.com/theoh-io/EPFL_MobileRobotics_2021) |  [**Aerial Robotics with Crazyflie Drone** (Still Loading...)](https://github.com/theoh-io/Aerial-Robotics)|
@@ -20,13 +20,13 @@
 
 - 🎶 I listen to a lot of music and play the guitar.
 
-- 🧑‍🎨 I am part of the Design team for [***La Matrice Festival***](https://lamatricefestival.ch/) and enjoy creative Coding 
+- 🧑‍🎨 I'm part of the Design team for [***La Matrice Festival***](https://lamatricefestival.ch/) and enjoy creative Coding 
 
   | [**Creative Coding with Processing**](https://github.com/theoh-io/Creative-Coding) |
   | ------------------------------------------------------------ |
   | <img src="./gif/Logo.gif" width="250"/> |
 
-- 💞️ I’m looking for to collaborate on interesting and challenging Robotics & CV projects !
+-   I’m looking for to collaborate on interesting and challenging Robotics & CV projects !
 
 - 📫 How to reach me :
     theo.hermann@epfl.ch
