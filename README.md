@@ -17,9 +17,6 @@
   | <img src="./gif/thymio.gif" width="400"/>     | <img src="./gif/drone.gif" width="400"/>          |
 
 
-
-- 🎶 I listen to a lot of music and play the guitar.
-
 - 🧑‍🎨 I'm part of the Design team for [***La Matrice Festival***](https://lamatricefestival.ch/) and enjoy creative Coding 
 
   | [**Creative Coding with Processing**](https://github.com/theoh-io/Creative-Coding) |
